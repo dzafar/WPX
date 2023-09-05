@@ -1,0 +1,27 @@
+/*
+
+Theme Name: Understrap дочерняя тема
+Template: understrap
+
+*/
+
+#add_houses_button{
+	cursor: pointer;
+}
+
+#post_parent{
+	padding: 5px;
+}
+
+#post_parent > *{
+	margin: 0 10px 0 0;
+}
+
+.post_Sub_title804{
+	position: absolute;
+	right: calc(99999% + 999999px);
+}
+
+#result{
+	margin: 10px 0 0 0;
+}
